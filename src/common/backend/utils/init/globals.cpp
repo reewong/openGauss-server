@@ -83,9 +83,9 @@ const uint32 GRAND_VERSION_NUM = 92984;
  * 2.VERSION NUM FOR EACH FEATURE
  *   Please write indescending order.
  ********************************************/
-const uint32 LSG_VERSION_NUM = 92984;
-const uint32 DISKANN_INDEX = 92984;
-const uint32 RABITQ_VERSION_NUM = 92983;
+const uint32 DISKANN_INDEX = 92987;
+const uint32 LSG_VERSION_NUM = 92986;
+const uint32 RABITQ_VERSION_NUM = 92985;
 const uint32 UHEAP_LOCK_VERSION_NUM = 92978;
 const uint32 PGSTAT_LAST_SCAN_VERSION_NUM = 92977;
 const uint32 IDENTITY_VERSION_NUM = 92976;
